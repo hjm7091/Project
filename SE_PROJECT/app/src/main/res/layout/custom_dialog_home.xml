@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:id="@+id/imageView_room"
+        android:layout_width="301dp"
+        android:layout_height="237dp"
+        android:layout_marginTop="24dp"
+        android:src="@drawable/img"
+        android:layout_centerHorizontal="true"
+        tools:srcCompat="@tools:sample/backgrounds/scenic[11]" />
+
+    <Button
+        android:id="@+id/button_select"
+        android:layout_width="301dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:text="갤러리에서 사진 불러오기"
+        android:layout_below="@+id/editText_address"
+        android:layout_centerHorizontal="true"/>
+
+    <EditText
+        android:id="@+id/editText_time"
+        android:layout_width="301dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="16dp"
+        android:ems="10"
+        android:hint="이용 가능한 시간을 입력하세요."
+        android:inputType="textPersonName"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/imageView_room"/>
+
+    <EditText
+        android:id="@+id/editText_price"
+        android:layout_width="301dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="16dp"
+        android:ems="10"
+        android:hint="시간당 가격을 입력하세요."
+        android:inputType="textPersonName"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/editText_time"/>
+
+    <EditText
+        android:id="@+id/editText_address"
+        android:layout_width="301dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="16dp"
+        android:ems="10"
+        android:hint="상세 주소를 입력하세요. (OO동, OO길)"
+        android:inputType="textPersonName"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/editText_price"/>
+
+</RelativeLayout>
