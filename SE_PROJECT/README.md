@@ -16,4 +16,10 @@
 ![순서](https://user-images.githubusercontent.com/28583661/69475267-5b298480-0e0e-11ea-8d49-a21856f0d960.PNG)
 
 ### 6. 구현된 기능(회원가입 및 로그인, 자취방게시판, 자유게시판)
-[구현된 기능(동영상).pptx](https://github.com/hjm7091/web2/files/3882219/default.pptx)
+<img width="791" alt="image" src="https://github.com/hjm7091/Project_University/assets/28583661/2002adba-fe98-49ba-ac0b-1a1f784f3221">
+<img width="787" alt="image" src="https://github.com/hjm7091/Project_University/assets/28583661/ec3960ac-0856-4b9d-aabf-a061834095b8">
+<img width="790" alt="image" src="https://github.com/hjm7091/Project_University/assets/28583661/28ab77b0-dd99-48f8-85c5-eadab5c8d580">
+<img width="722" alt="image" src="https://github.com/hjm7091/Project_University/assets/28583661/e712b86e-273e-4a9a-a220-b21e71e147f3">
+<img width="728" alt="image" src="https://github.com/hjm7091/Project_University/assets/28583661/c3238abb-4990-4fc5-96d3-562861f42394">
+
+
